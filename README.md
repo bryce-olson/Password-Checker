@@ -11,3 +11,4 @@ and educational purposes only. Nothing is encrypted so do not use this to store 
 important information or passwords
 This tool could possibly be modified to malicously store a password the user put in, or 
 falsly claim a password is strong when it isnt, eg: claiming "password" is a strength 5 password
+however the intended use is to help the user understand what makes a password strong or or not.
